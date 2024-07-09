@@ -3,7 +3,7 @@
 The key expires on September 14th, 2026.
 
 
-1. Download the jetbra.zip file and decompress it.
+1. Download the [jetbra.zip](https://github.com/haxqer/jetbrians-key/releases/download/v1.0.0/jetbra.zip) file and decompress it.
 2. Modify the configuration of the Integrated Development Environment (IDE), specifically for IntelliJ IDEA by modifying the `idea.vmoptions` file
 (Replace YOUR_PATH with the directory path obtained from the first step of the extraction process.):
     ```
